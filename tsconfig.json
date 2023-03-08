@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "target": "ES2015",
+        "noEmitOnError": true,
+        "strict": true,
+        "declaration": true
+    },
+    "files": [
+        "src/app.ts"
+    ]
+}
